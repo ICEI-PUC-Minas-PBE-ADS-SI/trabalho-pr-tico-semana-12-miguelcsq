@@ -22,7 +22,7 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 **Print da aba NETWORK com requisições Fetch/XHR de POST**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![alt text]({DC11F593-406E-42DB-8808-627CA154F1C0}.png) >>
 
 ## **Orientações Gerais**
 
