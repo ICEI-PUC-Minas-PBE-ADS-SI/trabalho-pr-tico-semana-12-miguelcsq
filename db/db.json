@@ -1,5 +1,5 @@
 {
-   "receitas": [
+  "receitas": [
     {
       "id": 0,
       "titulo": "MEXIDINHO",
@@ -92,6 +92,10 @@
       "link": "detalhes.html?id=2",
       "destaque": true
     }
-    ]
-  }
-    
+  ]
+}
+  
+  
+  
+  
+  
