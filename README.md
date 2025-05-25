@@ -5,9 +5,9 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Miguel Campos Soares Querino 
+- Matricula: 882253
+- Proposta de projeto escolhida: Diretório de receitas
 - Breve descrição sobre seu projeto:
 
 **Print do testes da API com Postman ou similar**
